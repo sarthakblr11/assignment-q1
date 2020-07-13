@@ -1,2 +1,2 @@
-# assignment-q1
-day 2 assignment q1
+# assignment d2
+day 2 assignment
